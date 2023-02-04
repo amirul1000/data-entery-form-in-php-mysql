@@ -3,9 +3,8 @@
 How to make data entry form in php mysql download source code free
 ==================================================================
 
-Youtube Tutorial : https://youtu.be/Jwg7V1jz43E
+Youtube Tutorial : https://youtu.be/OaobWvk-kXU
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
 
